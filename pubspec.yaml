@@ -47,7 +47,7 @@ dev_dependencies:
   # functional programming things
   dartz: ^0.10.1
   # Remote Api
-  connectivity: 
+  data_connection_checker: 
   http:
   #local cache
   shared_preferences: ^0.5.3+4
