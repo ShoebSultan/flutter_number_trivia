@@ -50,7 +50,7 @@ dev_dependencies:
   data_connection_checker: 
   http:
   #local cache
-  shared_preferences: ^0.5.3+4
+  shared_preferences:
   # mock data
   mockito:
 
